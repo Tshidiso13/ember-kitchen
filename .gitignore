@@ -1,0 +1,13 @@
+node_modules/
+.expo/
+dist/
+admin/dist/
+backend/dist/
+backend/src/generated/prisma/
+.env
+.env.*
+!.env.example
+backend/.env
+admin/.env
+*.log
+.DS_Store

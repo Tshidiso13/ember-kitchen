@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Ember Kitchen",
+    "slug": "ember-kitchen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.emberkitchen.app"
+    },
+    "android": {
+      "package": "com.emberkitchen.app"
+    },
+    "web": {
+      "name": "Ember Kitchen"
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}
